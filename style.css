@@ -1,0 +1,94 @@
+.menu{
+            background-color:hwb(357 0% 0%);
+            display: flex;
+            justify-content: space-around;
+            gap: 5px;
+             
+
+
+}
+
+.menu_logo_1{
+    width: 350px;
+    margin-top:1%;
+    text-decoration: none;
+   border: 2px solid;
+    border-radius: 8px;
+}
+
+.menu_logo_2{
+    width: 100px;
+    height: 20px;
+    margin-top: 4%;
+    color: hwb(0 1% 93%);
+    background-color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+   border: 2px solid;
+    border-radius: 10px;
+
+}
+
+
+.visual{
+    background-color: bisque;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+     
+
+}
+
+.footer_logo_1{
+    margin-top: 1%;
+    width: 350px;
+    margin-left: 350px;
+    border: 2px solid;
+    border-radius: 10px;
+}
+.footer_mod{
+    background-color: bisque;
+    text-align: right 20px;
+    font-size: 150%;
+    padding: 21.5px 0;
+    right: 30;
+}
+
+/* Fim estilização index.html */
+
+.loca_01{
+    display:flex;
+    flex-direction: column;
+    justify-content:flex-end;
+    background-color: bisque;
+    gap: 10px;
+}
+.loca_02{
+    
+    width: 350px;
+    margin-right:50px;
+   padding-left: 500px;
+    margin-top: 20px;
+    width:350px;
+}
+
+.map{
+    margin-top: 20px;
+    margin-left: 250px;
+    border-radius: 10px;
+}
+
+.end{
+ text-align: center;
+
+}
+
+/* fim estilização loca.html */
+
+.text1{
+    padding-top: 20px;
+    padding-left: 20px;
+    border: 2px solid;
+    border-radius: 10px;
+
+}
